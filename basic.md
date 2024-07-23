@@ -1,1 +1,0 @@
-# C# interview questions
